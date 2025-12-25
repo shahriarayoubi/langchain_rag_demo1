@@ -12,6 +12,10 @@ share/python-wheels/
 *.manifest
 *.spec
 
+# Project documents
+*.pdf
+*.txt
+
 # Testing & coverage
 .pytest_cache/
 .tox/

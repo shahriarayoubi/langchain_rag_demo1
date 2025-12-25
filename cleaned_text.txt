@@ -1,3 +1,6 @@
+
+--- Page 0 ---
+
 Analysis vs Analytics 
 Alright! So… 
 Let’s discuss the not-so-obvious differences 
@@ -38,6 +41,8 @@ Analytics is essentially the application of
 logical and computational reasoning to the 
 component parts obtained in an analysis. And 
 in doing this you are looking for patterns
+
+--- Page 1 ---
 
 and exploring what you could do with them 
 in the future. 
@@ -82,6 +87,8 @@ can have their unique meanings too.
 More of this will be explained in the next 
 video which aims to simplify these, as well
 
+--- Page 2 ---
+
 as many more with a fantastic diagram. So, 
 let’s move on! 
 Programming Languages & Software Employed in Data Science - All the Tools You 
@@ -121,6 +128,8 @@ When preparing your BI analysis, for instance,
 you will surely employ it. 
 Okay. 
 When it comes to data science, mentioning
+
+--- Page 3 ---
 
 MATLAB is inevitable. It is ideal for working 
 with mathematical functions or matrix manipulations. 
@@ -165,6 +174,8 @@ Because of its ability to do relatively complex
 computations and good visualizations quickly, 
 Excel is a tool applicable to more than one
 
+--- Page 4 ---
+
 category—traditional data, BI, and Data 
 Science. Similarly, SPSS is a very famous 
 tool for working with traditional data and 
@@ -207,6 +218,8 @@ such as R and Python, gives you the freedom
 to create specific, ad-hoc tools for each 
 project you are working on. 
 Great!
+
+--- Page 5 ---
 
 We hope we gave you a good idea about the 
 level of applicability of the most frequently 
