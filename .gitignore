@@ -1,0 +1,50 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+build/
+dist/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.manifest
+*.spec
+
+# Testing & coverage
+.pytest_cache/
+.tox/
+.nox/
+htmlcov/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# Type checkers & tooling
+.mypy_cache/
+.ruff_cache/
+.pytype/
+.idea/
+.vscode/
+
+# Environment management
+.env
+.venv
+venv/
+env/
+ENV/
+.python-version
+
+# UV
+.uv/
+uv.lock.bak
+
+# OS files
+Thumbs.db
+.DS_Store
+
